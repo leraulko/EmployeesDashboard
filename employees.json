@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Maya Bishop",
+      "department": "HR",
+      "position": "HR Manager"
+    },
+    {
+      "id": 2,
+      "name": "Marcus Swift",
+      "department": "IT",
+      "position": "Frontend Developer"
+    },
+    {
+      "id": 3,
+      "name": "Stefania Spampinato",
+      "department": "Marketing",
+      "position": "Content Creator"
+    },
+    {
+      "id": 4,
+      "name": "John Smith",
+      "department": "IT",
+      "position": "Backend Developer"
+    },
+    {
+      "id": 5,
+      "name": "Emily Johnson",
+      "department": "HR",
+      "position": "Recruiter"
+    },
+    {
+      "id": 6,
+      "name": "Michael Brown",
+      "department": "Marketing",
+      "position": "SEO Specialist"
+    },
+    {
+      "id": 7,
+      "name": "Anna Davis",
+      "department": "IT",
+      "position": "UI/UX Designer"
+    },
+    {
+      "id": 8,
+      "name": "Robert Wilson",
+      "department": "Marketing",
+      "position": "Brand Manager"
+    },
+    {
+      "id": 9,
+      "name": "Sophia Moore",
+      "department": "HR",
+      "position": "Training Specialist"
+    }
+  ]
+  
