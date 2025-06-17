@@ -5,7 +5,7 @@ const initialState = {
 }
 
 export const getEmployees = createAsyncThunk('employees/getEmployees', async () => {
-    const response = await fetch('/employees.json');
+    const response = await fetch('employees.json');
     const result = await response.json();
     return result;
 });
